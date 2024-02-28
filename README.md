@@ -2,14 +2,14 @@
 
 <h3 align="center">@Rohitraj :: Android Developer</h3>
 
-<p align="center">
+<div align="center">
  
  ![GitHub last commit](https://img.shields.io/github/last-commit/Rohitrajkhorwal/Rohitrajkhorwal)
 ![pv](https://pageview.vercel.app/?github_user=Rohitrajkhorwal)
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Joined-4 Years Ago-28a8ea"></a>
 <a href="https://github.com/AndroidWithRossyn" target="_blank"><img src="https://img.shields.io/badge/Public Github-AndroidWithRossyn-28a8ea"></a>
 
-</p>
+</div>
 
 ## 
 
